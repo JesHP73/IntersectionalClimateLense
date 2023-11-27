@@ -3,4 +3,4 @@ pandas
 plotly
 requests
 seaborn
-matplotlib.pyplot
+matplotlib

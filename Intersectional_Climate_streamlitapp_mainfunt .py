@@ -7,7 +7,7 @@
 import streamlit as st
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
+import matplotlib as plt
 
 DATA_URL = 'https://raw.githubusercontent.com/JesHP73/IntersectionalClimateLense/82562b5a84f5af80373d79691b331ed0c33843ea/data_sets/socio_economical_agg_dataset.csv'
           

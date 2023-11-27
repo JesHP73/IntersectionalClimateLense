@@ -1,6 +1,5 @@
 streamlit==1.28.0
-pandas
-plotly
-requests
-seaborn
-matplotlib
+pandas==1.4.1
+seaborn==0.13.0
+matplotlib==3.5.1
+
